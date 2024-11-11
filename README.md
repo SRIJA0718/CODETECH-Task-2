@@ -26,3 +26,4 @@ DURATION:SEPTEMBER TO NOVEMBER
  https://srija0718.github.io/CODETECH-Task-2/
 ## Output:
 ![image](https://github.com/user-attachments/assets/4b6d4fb5-f6d3-481d-a399-f8c979ed9cfe)
+![image](https://github.com/user-attachments/assets/d222b980-8bbf-49d8-be55-d83ec8a02463)

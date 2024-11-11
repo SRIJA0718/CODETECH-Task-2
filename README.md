@@ -23,5 +23,5 @@ DURATION:SEPTEMBER TO NOVEMBER
 * JavaScript: For functionality, including task addition, category selection, marking tasks as completed, editing tasks, and storing user data using localStorage.
 
 ## Output Link:
-
+ https://srija0718.github.io/CODETECH-Task-2/
 ## Output:
